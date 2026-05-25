@@ -3,7 +3,7 @@
 
 플레이 주소 https://jys-dev503.github.io/UnityAssignment/
 
-* 이동: `W`, `A`, , `D`
+* 이동: `W`, `A`, `D`
 * 점프: `Spacebar`
 
 감사합니다.
